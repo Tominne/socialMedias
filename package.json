@@ -30,6 +30,8 @@
   },
   "dependencies": {
     "@devacademy/eslint-config": "^1.8.0",
+    "@types/next": "^9.0.0",
+    "@vercel/edge-config": "^0.2.1",
     "express": "^4.17.2",
     "knex": "^2.3.0",
     "sqlite3": "^5.1.2",
